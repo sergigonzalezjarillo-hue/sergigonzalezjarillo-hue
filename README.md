@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sergi
+# 👋 Hola, soy Sergio
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
 💻 Me apasiona crear webs y aplicaciones, de la interfaz a la base de datos
